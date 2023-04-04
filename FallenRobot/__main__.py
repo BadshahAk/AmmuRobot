@@ -96,7 +96,7 @@ buttons = [
         InlineKeyboardButton(text="⤹★ UPDATE ★⤸", url=f"https://t.me/wsa_network"),
     ],
     [
-        InlineKeyboardButton(text="🔹𝚂𝚃𝚄𝙳𝚈 𝙶𝚁𝙾𝚄𝙿🔹", https://t.me/{SUPPORT_CHAT}"),
+        InlineKeyboardButton(text="🔹𝚂𝚃𝚄𝙳𝚈 𝙶𝚁𝙾𝚄𝙿🔹", url=f"https://t.me/{SUPPORT_CHAT}"),
         InlineKeyboardButton(text="🔹𝙲𝙷𝙰𝚃 𝙶𝚁𝙾𝚄𝙿🔹", url=f"https://t.me/CHATTINGxGROUP"),
     ],
     [
