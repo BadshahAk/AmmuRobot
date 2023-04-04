@@ -93,10 +93,14 @@ buttons = [
     ],
     [
         InlineKeyboardButton(text="❄ ᴀʙᴏᴜᴛ ❄", callback_data="fallen_"),
-        InlineKeyboardButton(text="✨ sᴜᴩᴩᴏʀᴛ ✨", url=f"https://t.me/{SUPPORT_CHAT}"),
+        InlineKeyboardButton(text="⤹★ UPDATE ★⤸", url=f"https://t.me/wsa_network"),
     ],
     [
-        InlineKeyboardButton(text="🥀 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🥀", url=f"tg://user?id={OWNER_ID}"),
+        InlineKeyboardButton(text="🔹𝚂𝚃𝚄𝙳𝚈 𝙶𝚁𝙾𝚄𝙿🔹", https://t.me/{SUPPORT_CHAT}"),
+        InlineKeyboardButton(text="🔹𝙲𝙷𝙰𝚃 𝙶𝚁𝙾𝚄𝙿🔹", url=f"https://t.me/CHATTINGxGROUP"),
+    ],
+    [
+        InlineKeyboardButton(text="ツ𝐓𝐢𝐠𝐞𝐫♰𝐒𝐇𝐀𝐑𝐉𝐄𝐄𝐋ツ", url=f"tg://user?id={OWNER_ID}"),
         ],
 ]
 
@@ -377,11 +381,7 @@ def Fallen_about_callback(update: Update, context: CallbackContext):
                     ],
                     [
                         InlineKeyboardButton(
-                            text="ᴅᴇᴠᴇʟᴏᴩᴇʀ", url=f"tg://user?id={OWNER_ID}"
-                        ),
-                        InlineKeyboardButton(
-                            text="sᴏᴜʀᴄᴇ",
-                            callback_data="source_",
+                            text="ツ𝐓𝐢𝐠𝐞𝐫♰𝐒𝐇𝐀𝐑𝐉𝐄𝐄𝐋ツ", url=f"tg://user?id={OWNER_ID}"
                         ),
                     ],
                     [
