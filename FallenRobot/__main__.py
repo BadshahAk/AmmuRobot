@@ -97,7 +97,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(text="🔹𝚂𝚃𝚄𝙳𝚈 𝙶𝚁𝙾𝚄𝙿🔹", url=f"https://t.me/wsa_network"),
-        InlineKeyboardButton(text="🔹𝙲𝙷𝙰𝚃 𝙶𝚁𝙾𝚄𝙿🔹", url=f"https://t.me/CHATTINGxGROUP"),
+        InlineKeyboardButton(text="🔹𝙲𝙷𝙰𝚃 𝙶𝚁𝙾𝚄𝙿🔹", url=f"https://t.me/my_horror_house"),
     ],
     [
         InlineKeyboardButton(text="ツ𝐓𝐢𝐠𝐞𝐫♰𝐒𝐇𝐀𝐑𝐉𝐄𝐄𝐋ツ", url=f"tg://user?id={OWNER_ID}"),
